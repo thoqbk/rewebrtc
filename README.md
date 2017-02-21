@@ -8,7 +8,7 @@
 1. `yarn`
 2. `yarn start`
 
-[Web version](https://github.com/thoqbk/rewebrtc-server)
+Visit my [Web version](https://github.com/thoqbk/rewebrtc-server) project
 
 # Screenshot
 
