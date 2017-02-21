@@ -1,9 +1,14 @@
 # rewebrtc
 
+# Installation
+1. [react-native-webrtc](https://github.com/oney/react-native-webrtc#react-native-webrtc-1)
+
 # Get started
 
 1. `yarn`
 2. `yarn start`
+
+[Web version](https://github.com/thoqbk/rewebrtc-server)
 
 # Screenshot
 
