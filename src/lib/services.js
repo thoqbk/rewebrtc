@@ -32,7 +32,7 @@ if(IS_BROWSER) {
   socket = io();
 } else {
   const socketIOClient = require('socket.io-client');
-  socket = socketIOClient('https://rewebrtc.herokuapp.com', {transports: ['websocket']});
+  socket = socketIOClient('https://rewebrtc.herokuapp.com', {transports: ['websocket'], jsonp: false});
 }
 
 var configuration = {"iceServers": [{"url": "stun:stun.l.google.com:19302"}]};
